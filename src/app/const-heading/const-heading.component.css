@@ -1,0 +1,17 @@
+/* .example-spacer {
+    width: 100px;
+  } */
+
+
+.hed {
+    font-family: 'Google Sans', sans-serif;
+
+    padding-left: 50px;
+    padding-top: 10px;
+    display:flex;
+    flex:1;
+  }
+
+.divi{
+  padding-bottom: 30px;
+}

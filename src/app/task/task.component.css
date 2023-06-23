@@ -1,0 +1,13 @@
+
+.hedi {
+    font-family: 'Google Sans', sans-serif;
+    width: 90%;
+    padding-left: 50px;
+    /* padding-top: 10px; */
+    float: left;
+    display: flex;
+  }
+
+.flex-item{
+    flex:1;
+}
